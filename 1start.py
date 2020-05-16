@@ -1,4 +1,4 @@
-#https://anandology.com/python-practice-book/getting-started.html
+# https://anandology.com/python-practice-book/getting-started.html
 
 '''
 # Problem 3: 1 \n 1

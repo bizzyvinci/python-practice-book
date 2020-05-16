@@ -1,4 +1,4 @@
-#https://anandology.com/python-practice-book/working-with-data.html
+# https://anandology.com/python-practice-book/working-with-data.html
 
 '''
 #Problem 1: [0,1,[3]] \n [0,1,[3,4]] \n [0,1,2]
@@ -501,10 +501,12 @@ print(valuesort(dic))
 '''
 
 
-
+'''
 # Problem 38: Interchange keys and values in a dictionary
 def invertdict(dic):
 	x=[]
 	return {value:key for key,value in dic.items()}
 dic={'x':1, 'y':2, 'a':3, 'D':-2, 'd': 10}
 print(invertdict(dic))
+'''
+
